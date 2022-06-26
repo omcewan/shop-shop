@@ -2,7 +2,7 @@ import {
   UPDATE_CATEGORIES,
   UPDATE_PRODUCTS,
   UPDATE_CURRENT_CATEGORY,
-} from './action';
+} from './actions';
 
 import { useReducer } from 'react';
 
